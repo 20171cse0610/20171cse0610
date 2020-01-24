@@ -14,5 +14,5 @@ void main()
     else
     printf("consonent\n");
     printf("sandeep");
-    
+    printf("sandeep m s");
 } 

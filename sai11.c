@@ -7,9 +7,6 @@ void main()
     if(ch=='a'||ch=='A')
     printf("vowel\n");
     else if(ch=='e'||ch=='E')
-    printf("vowel\n");
-    else if(ch=='i'||ch=='I')
-    printf("vowel\n");
     else if(ch=='o'||ch=='O')
     printf("vowel\n");
     else if(ch=='u'||ch=='U')

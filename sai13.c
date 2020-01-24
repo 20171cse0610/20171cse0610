@@ -13,5 +13,5 @@ void main()
       default: printf("not registered\n");
       }
       1111111
-            printf("section 10");
+   printf("section 10");
 }

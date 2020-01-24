@@ -16,4 +16,6 @@ void main()
     printf("vowel\n");
     else
     printf("consonent\n");
+    printf("sandeep");
+    
 } 

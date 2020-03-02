@@ -1,0 +1,100 @@
+<style>
+	p.dotted{border-style:dotted;}
+	p.dashed{border-style: dashed;}
+	p.solid{border-style: solid;}
+	p.double{border-style: double;}
+	p.groove{border-style: groove;}
+	p.ridge{border-style: ridge;}
+	p.inset{border-style: inset;}
+	p.outset{border-style: outset;}	
+	p.none{border-style: none;}
+	p.hidden{border-style: hidden;}
+	p.mix{border-style: dotted dashed solid double;}
+
+	p.one{
+	border-style:solid;
+	border-color:red;
+	}
+
+	p.two{
+	border-style:solid;
+	border-color:green;
+	}
+
+	p.three{
+	border-style:solid;
+	border-color:red green blue yellow;
+	}
+
+	p.four {
+	border-top-style:dotted;
+	border-right-style:solid;
+	border-bottom-style:dotted;
+	border-left-style:solid;
+	}
+	
+	p.five{
+	border-left:6px solid red;
+	background-color:lightgreen;
+	}
+
+p.six{
+	border-left:8px solid blue;
+	background-color:yellow;
+	margin:25px 50px 75px 100px; 
+}
+div.marginauto{
+	font-weight:900;
+	width:300px;
+	margin:auto;
+	border:1px solid red;
+}
+
+div.padding{
+	padding-top:50px;
+	padding-right:30px;
+	padding-bottom:50px;
+	padding-left:80px;
+}
+div.width{
+	padding:25px;
+	width:25px;	
+}
+div.color{
+	height:200px;
+	width:50%;
+	background-color:powderblue;
+}
+div.height{
+	height:100px;
+	width:500px;
+	background-color:powderblue:
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
